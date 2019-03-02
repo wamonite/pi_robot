@@ -1,0 +1,8 @@
+*~
+*.py[cod]
+.idea/
+__pycache__/
+.tox/
+build/
+dist/
+.coverage
